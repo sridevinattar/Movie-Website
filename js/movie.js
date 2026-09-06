@@ -63,7 +63,7 @@ const movies = [
         rating: 7.5,
         genre: "Horror",
         image:"// The Conjuring
-        image:"https://image.tmdb.org/t/p/w500/wVYREutTvI2tmxr6ujrY2yKj1l4.jpg",
+        image:"",
         description: "Paranormal investigators help a family experiencing terrifying supernatural events.",
         fullDescription: "Ed and Lorraine Warren, paranormal investigators, are called to help a family experiencing strange and frightening events in their new home. They discover that a dark supernatural presence is responsible for the terror.",
         cast: "Vera Farmiga, Patrick Wilson, Lili Taylor",
